@@ -28,6 +28,7 @@ This repository contains:
 | 🧪 `Colab Notebooks` | Development and Model training in Google Colab | [/wealthkraft-colab-notebooks](https://github.com/jayanti-k-88/wealthkraft-colab-notebooks) |
 | ☁️ `AWS EC2 SSH Scripts` | Deployment and automation scripts for AWS EC2 | [/wealthkraft-aws-ec2-ssh-scripts](https://github.com/jayanti-k-88/wealthkraft-aws-ec2-ssh-scripts) |
 | 📄 `Project Documents` | Project Proposal, Final Report, Data Story and Final Presentation Slide Deck | [/wealthkraft-documents](https://github.com/jayanti-k-88/wealthkraft-documents) |
+| ▶️ `Demo Video` | Quick 5 min Demo Video for the Project | [/wealthkraft-demo](https://github.com/jayanti-k-88/wealthkraft-demo) |
 
 ---
 
