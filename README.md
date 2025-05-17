@@ -146,6 +146,11 @@ This repository contains:
 ![Slide 27](finnie_images/slide_27.png)
 
 
+###Demo
+▶️ Watch the full 5-minute demo: https://www.youtube.com/watch?v=Hs7i8_eRNZE 
+![Slide 30](finnie_images/slide_30.png)
+
+
 
 ![Slide 28](finnie_images/slide_28.png)
 
